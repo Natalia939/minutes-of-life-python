@@ -19,6 +19,6 @@ This project demonstrates skills in **date handling**, **error checking**, and *
 Clone the repository and install the required dependency:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/minutes-of-life.git
+git clone https://github.com/Natalia939/minutes-of-life.git
 cd minutes-of-life
 pip install -r requirements.txt
